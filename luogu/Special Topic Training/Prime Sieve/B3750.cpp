@@ -1,6 +1,6 @@
 #include<iostream>
 #include<cmath>
-#define MAXN 1000005
+#define MAXN 10005
 using namespace std;
 int m, n, ans, prime[MAXN], visit[MAXN];
 void oula_prime(){
